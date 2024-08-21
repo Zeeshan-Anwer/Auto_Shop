@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+#product-form, #product-list {
+    margin-bottom: 30px;
+}
+
+input, textarea, button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 10px;
+}
